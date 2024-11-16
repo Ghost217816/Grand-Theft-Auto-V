@@ -1,0 +1,88 @@
+body {
+    font-family: sans-serif;
+
+width: 1200px;
+
+
+background: linear-gradient(180deg, #352562 30%, #FF30C3 60%, #FF93BD 100%);
+
+}
+
+nav{
+    display: flex;
+    gap: 20px;
+    font-size: 20px;
+}
+
+nav a{
+    text-decoration: none;
+    color: #FF30C3;
+    border: 4px double rgb(104, 43, 104);
+    border-radius: 20px;
+    padding: 10px;
+
+}
+h1{
+    font-family: Agbalumo;
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    
+}
+header img{
+    width: 1200px;
+    height: 600px;   
+}
+.percons{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 18px;
+    
+
+}
+
+.percon{
+    padding: 10px;
+    width: 400px;
+    text-align: center;
+    border: 4px solid rgb(97, 0, 97);
+    border-radius: 30px;
+    box-shadow: 13px 11px 14px 1px rgba(0,0,0,0.75);
+}
+
+.percon img{
+    width: 300px;
+    
+}
+h2{
+text-align: center;
+}
+.pro{
+    width: 50px;
+    height: 50px;
+}
+
+.glare{
+ display: flex;
+ flex-wrap: wrap;
+}
+.pedro img{
+    width: 300px;
+    height: 180px;
+}
+
+
+p{
+    color: white;
+}
+h3{
+    color: white;
+}
+footer p{
+    color: black;
+}
+.cnopka{
+    
+}
+
